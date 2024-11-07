@@ -1,6 +1,4 @@
-Aqui está um modelo para o README do seu repositório "Técnicas Avançadas de Programação - FATEC Antonio Russo":
 
----
 
 # Técnicas Avançadas de Programação - FATEC Antonio Russo
 
