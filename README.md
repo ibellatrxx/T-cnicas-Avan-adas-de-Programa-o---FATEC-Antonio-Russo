@@ -30,6 +30,3 @@ Se desejar contribuir com melhorias ou sugestões, sinta-se à vontade para abri
 
 Este repositório é mantido por Bianca Soares, aluna de Análise e Desenvolvimento de Sistemas na FATEC Antonio Russo.
 
----
-
-Esse README fornece uma visão geral do que está incluso no repositório e orienta sobre seu conteúdo e organização.
